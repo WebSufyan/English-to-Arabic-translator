@@ -1,0 +1,2 @@
+# English to Arabic translator
+ Machine translation using Transformers with multi head-self attention
